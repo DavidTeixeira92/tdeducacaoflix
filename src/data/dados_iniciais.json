@@ -1,0 +1,231 @@
+{
+  "categorias": [
+    {
+      "titulo": "Institucional - TD Educação",
+      "link": "https://www.youtube.com/c/TioDavidEducação",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Fique ligado no mundo TD Educação!",
+        "url": "https://www.youtube.com/playlist?list=PLprPfkRTUeFZ_w0kSlFG9531VNNW6AA95"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://youtu.be/xrte-ENxmj4"
+        },
+        {
+          "titulo": "Vinheta Nº 01",
+          "url": "https://youtu.be/IIn6xeCj2ow"
+        },
+        {
+          "titulo": "Vinheta Nº 02",
+          "url": "https://youtu.be/697ZG5rAqJc"
+        },
+        {
+          "titulo": "LIVE do TD Educação - Abertura do Projeto",
+          "url": "https://youtu.be/ZoPDVKkjUm0"
+        },
+        {
+          "titulo": "INSCREVA-SE E COMPARTILHE COM A GALERA!",
+          "url": "https://youtu.be/0rFVi1l3XPo"
+        },
+        {
+          "titulo": "Anúncio do TD Educação Nº.01",
+          "url": "https://youtu.be/4lRPwxQb53k"
+        },
+        {
+          "titulo": "Anúncio do TD Educação Nº.02",
+          "url": "https://youtu.be/aZlSsteMK4w"
+        },
+        {
+          "titulo": "Anúncio do TD Educação Nº.03",
+          "url": "https://youtu.be/9XRWwLEKF5s"
+        },
+        {
+          "titulo": "Anúncio do TD Educação Nº.04",
+          "url": "https://youtu.be/gn3GJQm7KZQ"
+        }        
+      ]
+    },
+    {
+      "titulo": "Aulas - Aplicativos no Smartphone",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Bizus de aplicativos incríveis para utilizar no seu smartphone!",
+        "url": "https://www.youtube.com/playlist?list=PLprPfkRTUeFZdP1uhoVWEbTwaB9fuI81u"
+      },
+      "videos": [
+        {
+          "titulo": "TOP#5 dos APPs para Android",
+          "url": "https://youtu.be/KbTE3LFPoZo"
+        },
+       {
+          "titulo": "App#1 - Conheça o INSGET",
+          "url": "https://youtu.be/cs1WMWLb2Q4"
+        },
+        {
+          "titulo": "App#2 - Conheça o CPU-Z",
+          "url": "https://youtu.be/x3pp9SeDZtE"
+        },
+        {
+          "titulo": "App#3 - Conheça o CCLEANER",
+          "url": "https://youtu.be/7cu8xVn4NKI"
+        }, 
+        {
+          "titulo": "App#4 - Conheça o ADV Gravador de Tela",
+          "url": "https://youtu.be/Gu0UwC2pX00"
+        },
+        {
+          "titulo": "App#5 - Conheça o VIVACUT",
+          "url": "https://youtu.be/8OL-NyDNLNw"
+        },
+        {
+          "titulo": "Trabalhando com o Planilhas Google no seu Smartphone",
+          "url": "https://youtu.be/ReIA6KwlxYM"
+        },
+        {
+          "titulo": "Edição de imagens no Android",
+          "url": "https://youtu.be/QrHr6HWsbQw"
+        },
+        {
+          "titulo": "Quick, Draw. Rede Neural que tenta adivinhar seu desenho",
+          "url": "https://youtu.be/95rpbA3IWDo"
+        }
+      ]
+    },
+    {
+      "titulo": "Aulas - Ferramentas de Escritório",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Word, Excel e PowerPoint, e também, outras ferramentas gratuitas!",
+        "url": "https://www.youtube.com/playlist?list=PLprPfkRTUeFZ_w0kSlFG9531VNNW6AA95"
+      },
+      "videos": [
+        {
+          "titulo": "05 DICAS ESSENCIAIS PARA FAZER APRESENTAÇÕES NO POWERPOINT",
+          "url": "https://youtu.be/1cj8Lfyu12E"
+        },
+        {
+          "titulo": "VOCÊ MANJA DE PLANILHA ELETRÔNICA?",
+          "url": "https://youtu.be/n8IdzV-GYYw"
+        },
+        {
+          "titulo": "Pare de usar o PACOTE OFFICE PIRATA, use SOFTWARES LIVRES!",
+          "url": "https://youtu.be/T53j9VVzkZA"
+        }
+      ]
+    },
+    {
+      "titulo": "Aulas - Design Gráfico, Edição de Vídeos e Games",
+      "cor": "orange",
+      "link_extra": {
+        "text": "PS, CD, Pr, Canva, Scratch e muitos mais!",
+        "url": "https://www.youtube.com/playlist?list=PLprPfkRTUeFZ_w0kSlFG9531VNNW6AA95"
+      },
+      "videos": [
+        {
+          "titulo": "LIVRANDO-SE DE UMA VEZ DAS ESPINHAS 😱",
+          "url": "https://youtu.be/9Br9VZnuHz0"
+        },
+        {
+          "titulo": "CRIANDO UMA PIXEL ART NO PHOTOSHOP 👾",
+          "url": "https://youtu.be/PyJHdf0XZvo"
+        },
+        {
+          "titulo": "BRINCANDO COM O CORELDRAW 🤭",
+          "url": "https://youtu.be/EF7RedD9L9k"
+        },
+        {
+          "titulo": "VOCÊ CONHECE O CANVA? 🤔",
+          "url": "https://youtu.be/YRKv3A43VEM"
+        },
+        {
+          "titulo": "Aprenda Adobe Premiere CC em 10 MINUTOS 😱",
+          "url": "https://youtu.be/ZvMghEAjQcs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aulas - Conteúdos extras e curiosidades",
+      "cor": "red",
+      "link_extra": {
+        "text": "Temáticas interessantes que vão te ajudar!",
+        "url": "https://www.youtube.com/playlist?list=PLprPfkRTUeFZ_w0kSlFG9531VNNW6AA95"
+      },
+      "videos": [
+        {
+          "titulo": "🔴BURLANDO SEU NAVEGADOR PARA ACESSAR O INSTAGRAM NO MODO MOBILE‼",
+          "url": "https://youtu.be/V85JNHKR5EM"
+        },
+        {
+          "titulo": "UNBOXING SUPER BUGADO! MUITO FELIZ COM O PRODUTO!",
+          "url": "https://youtu.be/oX29lZ4b6X4"
+        },
+        {
+          "titulo": "✔️TENHA SEU CURRÍCULO, HOJE‼️",
+          "url": "https://youtu.be/FGWSawOxtVk"
+        },
+        {
+          "titulo": "🔴 VEJA COMO É FÁCIL CONVERTER PARA PDF!",
+          "url": "https://youtu.be/iNztmJqr2gI"
+        },
+        {
+          "titulo": "Sua senha é forte? DESCUBRA AGORA!!",
+          "url": "https://youtu.be/1j5gjqXB6GY"
+        },
+        {
+          "titulo": "Faça o ARRASTE PARA CIMA/SAIBA MAIS nos STORIES do INSTA",
+          "url": "https://youtu.be/xrte-ENxmj4"
+        }
+      ]
+    },
+    {
+      "titulo": "Participações no Projeto Mais Saber Educacional",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Minhas participações no projeto MAIS SABER EDUCACIONAL",
+        "url": "https://www.youtube.com/watch?v=JMvAsMWXzcU&list=PLprPfkRTUeFZtFCRmUVYCTj11T7I4tl7i"
+      },
+      "videos": [
+        {
+          "titulo": "DICAS PARA COMPRAR UM NOTEBOOK USADO",
+          "url": "https://youtu.be/JMvAsMWXzcU"
+        },
+        {
+          "titulo": "TERMOS TÉCNICOS DA INFORMÁTICA",
+          "url": "https://youtu.be/rYVSI1GiLEU"
+        },
+        {
+          "titulo": "MUNDO GOOGLE",
+          "url": "https://youtu.be/82_ZhQ9ZqEM"
+        },
+        {
+          "titulo": "DESBRAVANDO NO PHOTOSHOP [INICIANTE]",
+          "url": "https://youtu.be/bkm6_y2b1aA"
+        },
+        {
+          "titulo": "VOCÊ SABE USAR O SEU DINHEIRO?",
+          "url": "https://youtu.be/RyCCj5lZIQI"
+        },
+        {
+          "titulo": "SERÁ QUE A MINHA BATERIA VICIOU???",
+          "url": "https://youtu.be/zjVOAyMeXXg"
+        },
+        {
+          "titulo": "Será que EU preciso de um CURRÍCULO?",
+          "url": "https://youtu.be/8z3gj3gctlw"
+        },
+        {
+          "titulo": "Seu CURRÍCULO tem ERROS?",
+          "url": "https://youtu.be/wxcVy9AffzA"
+        },
+        {
+          "titulo": "Informática Aplicada - Ep.01 - 01 de 03",
+          "url": "https://youtu.be/-bnd5s_IL9M"
+
+        }
+        
+      ]
+    }
+  ]
+}
