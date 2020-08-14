@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
-
+import Emoji from '../../../components/Emojis/index.js';
 function CadastroVideo(){
     return(
       <PageDefault>
@@ -15,7 +15,7 @@ function CadastroVideo(){
         
           <h2>OPA!! Não era para você está aqui.</h2>
           
-          <h1>😁</h1>
+          <h1><Emoji symbol="😁" /></h1>
 
           <Link to="/">
             Volte para a página inicial, seu curioso!
