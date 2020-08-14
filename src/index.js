@@ -8,9 +8,11 @@ import {
   Route
 } from 'react-router-dom';
 
+// Importando as páginas
 import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/video';
 import CadastroCategoria from './pages/cadastro/categoria';
+import RadioTDE from './pages/radioTDE';
 
 //import * as serviceWorker from './serviceWorker'; não será usado pois, foi apagado o serviceWorker
 ///AQUI É A RAÍZ DA APLICAÇÃO
@@ -29,6 +31,7 @@ ReactDOM.render(
       <Route path="/" component={Home} exact />
       <Route path="/cadastro/video" component={CadastroVideo} />
       <Route path="/cadastro/categoria" component={CadastroCategoria} />
+      <Route path="/radioTDE" component={RadioTDE} />
       <Route component={Pagina404} />
     </Switch>
   </BrowserRouter>,

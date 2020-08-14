@@ -8,12 +8,13 @@ function Footer() {
       <Link to="/cadastro/video">
         <img src="https://fontmeme.com/permalink/200810/384a7e785407d51c8bf9753f8fa6fd0a.png" alt="Logo Alura" />
       </Link>
+      <p>Acesse a <a href="https://radiotdeducacao.vercel.app/" target="blank">Rádio TD Educação</a></p>
       <p>
         Orgulhosamente criado por David Teixeira durante a
         {' '}
         <a href="https://www.alura.com.br/">
-          Imersão React da Alura
-        </a>
+          Imersão React da Alura 
+        </a>{'.'}
       </p>
     </FooterBase>
   );
