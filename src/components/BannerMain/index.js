@@ -36,7 +36,7 @@ export default function BannerMain({
             youtubeID={youTubeID}
           />
           <WatchButton>
-            <a href="https://youtu.be/xrte-ENxmj4" title="Clique aqui 😉">
+            <a href="https://youtu.be/yjBxsxYimdA" title="Clique aqui 😉">
               Assista Agora
             </a>
           </WatchButton>
